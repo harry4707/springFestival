@@ -323,7 +323,7 @@ html,body {
 					transform: translate(0, -100%);
 }
 #page3 .bg {
-	background: url("../images/p3_bg.jpg") no-repeat;
+	background: url("../images/shunian.jpg") no-repeat;
 	background-size: 100%;
 }
 #page3 > .p3_logo {
@@ -334,7 +334,7 @@ html,body {
 	left: 0;
 	right: 0;
 	margin: auto;
-	background: url("../images/p3_logo.png") no-repeat center center;
+	/*background: url("../images/p3_logo.png") no-repeat center center;*/
 	background-size: 100%;
 }
 #page3 > .p3_title {
@@ -345,15 +345,15 @@ html,body {
 	left: 0;
 	right: 0;
 	margin: auto;
-	background: url("../images/p3_title.png") no-repeat center center;
+	/*background: url("../images/p3_title.png") no-repeat center center;*/
 	background-size: 100%;
 }
 #page3 > .p3_second {
 	position: absolute;
 	width: 22.8125vw;
 	height: 41.652vh;
-	top: 25.48vh;
-	left: 3.75vw;
+	top: 50.48vh;
+	left: 0.75vw;
 	background: url("../images/p3_couplet_second.png") no-repeat center center;
 	background-size: 100%;
 }
@@ -361,8 +361,8 @@ html,body {
 	position: absolute;
 	width: 22.8125vw;
 	height: 41.652vh;
-	top: 25.48vh;
-	right: 3.75vw;
+	top: 50.48vh;
+	right: 0.75vw;
 	background: url("../images/p3_couplet_first.png") no-repeat center center;
 	background-size: 100%;
 }
@@ -372,7 +372,7 @@ html,body {
 	height: 32vw;
 	left: 0;
 	right: 0;
-	bottom: 10vh;
+	bottom: 7vh;
 	margin: auto;
 	background: url("../images/p3_blessing.png") no-repeat center center;
 	background-size: 100%;
