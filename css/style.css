@@ -110,7 +110,7 @@ html,body {
 }
 #page1 .p1_lantern:before {
 	position: absolute;
-	top: 0;
+	top: -50px;
 	right: 0;
 	bottom: 0;
 	left: 0;
@@ -147,9 +147,9 @@ html,body {
 #page1 .p1_yunyun {
 	position: absolute;
 	right: 0;
-	bottom: 9vh;
+	bottom: 13vh;
 	left: 0;
-	background: url("../images/yichan.jpeg") no-repeat center center;
+	background: url("../images/wanzitou.png") no-repeat center center;
 	background-size: 100%;
 	width: 27.656vw;
 	height: 18.63vh;
