@@ -157,13 +157,13 @@ html,body {
 }
 
 #page1 .p1_words {
-	font-size: 2.134rem;
+	font-size: 4.134rem;
 	position: absolute;
 	right: 0;
 	left: 0;
 	bottom: 48px;
 	text-align: center;
-	color: #231815;
+	color: #f00;
 }
 
 /* page2 */
