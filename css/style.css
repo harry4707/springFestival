@@ -323,7 +323,11 @@ html,body {
 					transform: translate(0, -100%);
 }
 #page3 .bg {
+<<<<<<< HEAD
 	background: url("../images/shunian.jpg") no-repeat;
+=======
+	background: url("../images/shunian2.jpg") no-repeat;
+>>>>>>> master
 	background-size: 100%;
 }
 #page3 > .p3_logo {
